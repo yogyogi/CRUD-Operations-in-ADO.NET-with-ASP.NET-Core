@@ -1,0 +1,11 @@
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\bin\Debug\netcoreapp2.0\CRUDEF.deps.json
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\bin\Debug\netcoreapp2.0\CRUDEF.runtimeconfig.json
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\bin\Debug\netcoreapp2.0\CRUDEF.runtimeconfig.dev.json
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\bin\Debug\netcoreapp2.0\CRUDEF.dll
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\bin\Debug\netcoreapp2.0\CRUDEF.pdb
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.csproj.CoreCompileInputs.cache
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.AssemblyInfoInputs.cache
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.AssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.dll
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.pdb
+G:\Yogesh\SEO\Yogihosting\Forum Answers\ASP.NET CORE - Learn CRUD Operations in Entity Framework Core from Zero to Hero\CRUDEF\CRUDEF\obj\Debug\netcoreapp2.0\CRUDEF.csprojResolveAssemblyReference.cache

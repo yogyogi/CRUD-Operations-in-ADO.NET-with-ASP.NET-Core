@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Teacher>
+
+@{
+    Layout = "_Layout";
+    var title = "READ Teacher";
+    ViewData["Title"] = title;
+}
+
+<h2>@title</h2>
+
+<h3><a asp-action="Create" class="btn btn-sm btn-secondary">Create</a></h3>
+<table class="table table-bordered table-sm table-striped">
+    <thead>
+        <tr><th>Id</th><th>Name</th><th>Skills</th><th>Total Students</th><th>Salary</th><th>Added On</th><th>Update</th><th>Delete</th></tr>
+    </thead>
+    <tbody>
+        @if (Model == null)
+        {
+            <tr><td colspan="7" class="text-center">No Model Data</td></tr>
+        }
+        else
+        {
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Id</td>
+                    <td>@p.Name</td>
+                    <td>@p.Skills</td>
+                    <td>@p.TotalStudents</td>
+                    <td>@string.Format(new System.Globalization.CultureInfo("en-US"), "{0:C2}", p.Salary)</td>
+                    <td>@string.Format("{0:dddd, dd MMMM yyyy}", p.AddedOn)</td>
+                    <td><a asp-action="Update" asp-route-id="@p.Id">Update</a></td>
+                    <td>
+                        <form asp-action="Delete" method="post" asp-route-id="@p.Id">
+                            <button>Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
