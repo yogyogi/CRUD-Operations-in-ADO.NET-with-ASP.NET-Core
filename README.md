@@ -9,12 +9,11 @@ This repository is made for beginners who want to learn 3 things:
 
 Download this repository and open it in Visual Studio. Then create the database and teachers table in it. Finally change the connection string given inside the appsetting.json file and you are set to go:
 
-`
+```
 {
   "ConnectionStrings": {
     "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=School;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
 }
-
-`
+```
 ## Dont forget to Star this repository. Thank YOu !
