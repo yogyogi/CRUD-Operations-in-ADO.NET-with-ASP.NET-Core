@@ -1,6 +1,8 @@
 # CRUD Operations in ADO.NET with ASP.NET Core
 In this repository I have perfomred CRUD Operations (CREATE, READ, UPDATE & DELETE) on a Teachers table in the Database.
 
+![CRUD Operations](https://raw.githubusercontent.com/yogyogi/CRUD-Operations-in-ADO.NET-with-ASP.NET-Core/master/CRUD-Operations-in-ado-net-ASPNET-Core.png)
+
 This repository is made for beginners who want to learn 3 things:
 
 1. [ASP.NET Core](http://www.yogihosting.com/category/aspnet-core/)
@@ -16,4 +18,4 @@ Download this repository and open it in Visual Studio. Then create the database 
   }
 }
 ```
-## Dont forget to Star this repository. Thank YOu !
+## Dont forget to Star this repository. Thank You !
