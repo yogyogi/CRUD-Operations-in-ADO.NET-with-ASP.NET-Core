@@ -5,7 +5,7 @@ In this repository I have perfomred CRUD Operations (CREATE, READ, UPDATE & DELE
 
 This repository is made for beginners who want to learn 3 things:
 
-1. [ASP.NET Core](http://www.yogihosting.com/category/aspnet-core/)
+1. [ASP.NET Core](https://www.yogihosting.com/category/aspnet-core/)
 2. ADO.NET
 3. CRUD Operations
 
