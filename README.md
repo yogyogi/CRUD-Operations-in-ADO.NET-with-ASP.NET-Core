@@ -3,6 +3,8 @@ In this repository I have perfomred CRUD Operations (CREATE, READ, UPDATE & DELE
 
 ![CRUD Operations](https://raw.githubusercontent.com/yogyogi/CRUD-Operations-in-ADO.NET-with-ASP.NET-Core/master/CRUD-Operations-in-ado-net-ASPNET-Core.png)
 
+## Compatible with ASP.NET Core MVC 2.0, 2.2, 3.1 & 5.0
+
 This repository is made for beginners who want to learn 3 things:
 
 1. [ASP.NET Core](https://www.yogihosting.com/category/aspnet-core/)
