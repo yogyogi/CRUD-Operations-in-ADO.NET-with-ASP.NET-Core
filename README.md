@@ -19,6 +19,23 @@ Download this repository and open it in Visual Studio. Then create the database 
 }
 ```
 
+
+# How to create Teacher table
+
+Run the following script to create the Teacher table in your database.
+
+```
+CREATE TABLE [dbo].[Teacher]
+(
+    [Id] INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    [Name] VARCHAR(50) NOT NULL,
+    [Skills] VARCHAR(250) NOT NULL,
+    [TotalStudents] INT NOT NULL,
+    [Salary] MONEY NOT NULL,
+    [AddedOn] DATE NOT NULL DEFAULT GETDATE()
+)
+```
+
 # Wait, There is more for you
 
 I have explained each and every area of the code in my HACKERNOON article - [ASP.NET CORE — Learn CRUD Operations in ADO.NET from Zero to Hero](https://hackernoon.com/asp-net-core-learn-crud-operations-in-ado-net-from-zero-to-hero-a0109ed2f8a4)
