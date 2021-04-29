@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MunT3g4D3Jh70xPpBpTAIgVwVeccqweddpvc13eingLU3mzai5y9gTVPEeg83EQYS8LpBJ1NeaufkDr+E2TDuw==",
+  "dgSpecHash": "+3mx/TQWxPtikYdf6SGnD0R0mzSs4Rp5cX9+i0GE16yIDWDJijwiZUfh8Qa3rbqBxa2DauGvdnhcXh5tvm+vBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avita\\Source\\Repos\\CRUDADO\\CRUDADO\\CRUDADO.csproj",
+  "projectFilePath": "C:\\Users\\Avita\\Documents\\GitHub\\CRUD-Operations-in-ADO.NET-with-ASP.NET-Core\\CRUDADO\\CRUDADO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avita\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Avita\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.1\\microsoft.data.sqlclient.2.1.1.nupkg.sha512",

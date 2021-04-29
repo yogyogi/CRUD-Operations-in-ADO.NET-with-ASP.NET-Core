@@ -2342,11 +2342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Avita\\Source\\Repos\\CRUDADO\\CRUDADO\\CRUDADO.csproj",
+      "projectUniqueName": "C:\\Users\\Avita\\Documents\\GitHub\\CRUD-Operations-in-ADO.NET-with-ASP.NET-Core\\CRUDADO\\CRUDADO.csproj",
       "projectName": "CRUDADO",
-      "projectPath": "C:\\Users\\Avita\\Source\\Repos\\CRUDADO\\CRUDADO\\CRUDADO.csproj",
+      "projectPath": "C:\\Users\\Avita\\Documents\\GitHub\\CRUD-Operations-in-ADO.NET-with-ASP.NET-Core\\CRUDADO\\CRUDADO.csproj",
       "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Avita\\Source\\Repos\\CRUDADO\\CRUDADO\\obj\\",
+      "outputPath": "C:\\Users\\Avita\\Documents\\GitHub\\CRUD-Operations-in-ADO.NET-with-ASP.NET-Core\\CRUDADO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Avita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2357,6 +2357,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\commonpackage": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
